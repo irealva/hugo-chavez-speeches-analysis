@@ -66,5 +66,13 @@ textkit tokens2counts ../outputdata/0008_clean.txt > ../outputdata/0008.csv
 
 ----
 
+Merge all files in a folder
+
+`cat * > merged-file`
+
+----
+
 #REVISAR
 http://venezuela-us.org/es/wp-content/uploads/2009/06/
+
+
