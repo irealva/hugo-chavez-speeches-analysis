@@ -1,166 +1,166 @@
 [
-  {
-    "word_of_interest": "agua",
-    "years": [ 52, 100, 124, 54, 63, 82, 79, 153]
-  },
-  {
-    "word_of_interest": "barrio",
-    "years": [ 5, 5, 8, 6, 47, 81, 95, 92]
-  },
-  {
-    "word_of_interest": "campesino",
-    "years": [ 3, 13, 17, 7, 8, 3, 7, 6]
-  },
-  {
-    "word_of_interest": "civico-militar",
-    "years": [ 4, 4, 5, 4, 7, 9, 12, 9]
-  },
-  {
-    "word_of_interest": "colectivo",
-    "years": [ 27, 43, 32, 16, 8, 12, 25, 25]
-  },
-  {
-    "word_of_interest": "comunismo",
-    "years": [ 5, 3, 4, 0, 2, 1, 3, 1]
-  },
-  {
-    "word_of_interest": "consitucion",
-    "years": [ 217, 129, 169, 240, 264, 132, 77, 46]
-  },
-  {
-    "word_of_interest": "corrupcion",
-    "years": [ 55, 20, 16, 24, 15, 17, 17, 45]
-  },
-  {
-    "word_of_interest": "crimen",
-    "years": [ 0, 0, 2, 2, 1, 0, 1, 0]
-  },
-  {
-    "word_of_interest": "crisis",
-    "years": [ 121, 30, 25, 16, 35, 26, 51, 20]
-  },
-  {
-    "word_of_interest": "democracia",
-    "years": [ 121, 150, 126, 165, 111, 152, 139, 99]
-  },
-  {
-    "word_of_interest": "educacion",
-    "years": [ 162, 91, 91, 107, 234, 87, 97, 126]
-  },
-  {
-    "word_of_interest": "electricidad",
-    "years": [ 4, 11, 6, 2, 4, 4, 4, 6]
-  },
-  {
-    "word_of_interest": "escasez",
-    "years": [ 0, 1, 0, 0, 1, 0, 1, 0]
-  },
-  {
-    "word_of_interest": "etica",
-    "years": [ 13, 7, 32, 31, 10, 7, 2, 30]
-  },
-  {
-    "word_of_interest": "expropiar",
-    "years": [ 1, 3, 1, 0, 3, 0, 1, 0]
-  },
-  {
-    "word_of_interest": "fascista",
-    "years": [ 0, 0, 0, 26, 35, 16, 5, 4]
-  },
-  {
-    "word_of_interest": "golpe",
-    "years": [ 11, 5, 12, 97, 161, 103, 77, 65]
-  },
-  {
-    "word_of_interest": "imperialismo",
-    "years": [ 0, 0, 0, 0, 5, 82, 183, 79]
-  },
-  {
-    "word_of_interest": "imperio",
-    "years": [ 13, 11, 21, 14, 35, 101, 161, 244]
-  },
-  {
-    "word_of_interest": "infierno",
-    "years": [ 7, 29, 23, 11, 9, 12, 26, 27]
-  },
-  {
-    "word_of_interest": "inflacion",
-    "years": [ 43, 57, 15, 29, 16, 15, 23, 13]
-  },
-  {
-    "word_of_interest": "luz",
-    "years": [ 3, 12, 10, 15, 31, 18, 41, 26]
-  },
-  {
-    "word_of_interest": "medios",
-    "years": [ 45, 36, 97, 113, 55, 62, 43, 53]
-  },
-  {
-    "word_of_interest": "muerte",
-    "years": [ 33, 43, 86, 51, 35, 97, 73, 82]
-  },
-  {
-    "word_of_interest": "nacionalizar",
-    "years": [ 0, 0, 0, 0, 0, 0, 1, 0]
-  },
-  {
-    "word_of_interest": "neoliberalismo",
-    "years": [ 11, 29, 74, 47, 67, 72, 43, 16]
-  },
-  {
-    "word_of_interest": "oposicion",
-    "years": [ 0, 10, 21, 87, 112, 205, 55, 77]
-  },
-  {
-    "word_of_interest": "panamazonico",
-    "years": [ 0, 0, 0, 0, 0, 18, 0, 0]
-  },
-  {
-    "word_of_interest": "patria",
-    "years": [ 143, 59, 65, 116, 243, 300, 205, 326]
-  },
-  {
-    "word_of_interest": "paz",
-    "years": [ 102, 61, 149, 192, 66, 71, 69, 108]
-  },
-  {
-    "word_of_interest": "petroleo",
-    "years": [ 54, 209, 194, 141, 130, 150, 226, 242]
-  },
-  {
-    "word_of_interest": "pobreza",
-    "years": [ 18, 39, 101, 105, 71, 122, 91, 140]
-  },
-  {
-    "word_of_interest": "poder",
-    "years": [ 163, 208, 103, 128, 169, 127, 141, 179]
-  },
-  {
-    "word_of_interest": "produccion",
-    "years": [ 44, 78, 100, 67, 111, 38, 54, 87]
-  },
-  {
-    "word_of_interest": "pueblo",
-    "years": [ 762, 702, 711, 772, 950, 1036, 1017, 929]
-  },
-  {
-    "word_of_interest": "regimen",
-    "years": [ 20, 40, 27, 6, 14, 6, 9, 3]
-  },
-  {
-    "word_of_interest": "revolucion",
-    "years": [ 154, 231, 337, 282, 243, 338, 338, 423]
-  },
-  {
-    "word_of_interest": "soberania",
-    "years": [ 40, 29, 45, 34, 40, 41, 105, 48]
-  },
-  {
-    "word_of_interest": "socialismo",
-    "years": [ 3, 2, 3, 3, 2, 8, 91, 228]
-  },
-  {
-    "word_of_interest": "trabajadores",
-    "years": [ 37, 53, 85, 179, 104, 102, 127, 76]
-  }
+  {
+    "word_of_interest": "water",
+    "years": [52, 100, 124, 54, 63, 82, 79, 153]
+  },
+  {
+    "word_of_interest": "slum",
+    "years": [5, 5, 8, 6, 47, 81, 95, 92]
+  },
+  {
+    "word_of_interest": "peasant",
+    "years": [3, 13, 17, 7, 8, 3, 7, 6]
+  },
+  {
+    "word_of_interest": "civic-military",
+    "years": [4, 4, 5, 4, 7, 9, 12, 9]
+  },
+  {
+    "word_of_interest": "collective",
+    "years": [27, 43, 32, 16, 8, 12, 25, 25]
+  },
+  {
+    "word_of_interest": "communism",
+    "years": [5, 3, 4, 0, 2, 1, 3, 1]
+  },
+  {
+    "word_of_interest": "constitution",
+    "years": [217, 129, 169, 240, 264, 132, 77, 46]
+  },
+  {
+    "word_of_interest": "corruption",
+    "years": [55, 20, 16, 24, 15, 17, 17, 45]
+  },
+  {
+    "word_of_interest": "crime",
+    "years": [0, 2, 2, 1, 0, 1, 0]
+  },
+  {
+    "word_of_interest": "crisis",
+    "years": [121, 30, 25, 16, 35, 26, 51, 20]
+  },
+  {
+    "word_of_interest": "democracy",
+    "years": [121, 150, 126, 165, 111, 152, 139, 99]
+  },
+  {
+    "word_of_interest": "education",
+    "years": [162, 91, 91, 107, 234, 87, 97, 126]
+  },
+  {
+    "word_of_interest": "electricity",
+    "years": [4, 11, 6, 2, 4, 4, 4, 6]
+  },
+  {
+    "word_of_interest": "scarcity",
+    "years": [0, 1, 0, 0, 1, 0, 1, 0]
+  },
+  {
+    "word_of_interest": "ethics",
+    "years": [13, 7, 32, 31, 10, 7, 2, 30]
+  },
+  {
+    "word_of_interest": "expropriate",
+    "years": [1, 3, 1, 0, 3, 0, 1, 0]
+  },
+  {
+    "word_of_interest": "fascist",
+    "years": [0, 0, 26, 35, 16, 5, 4]
+  },
+  {
+    "word_of_interest": "coup",
+    "years": [11, 5, 12, 97, 161, 103, 77, 65]
+  },
+  {
+    "word_of_interest": "imperialism",
+    "years": [0, 0, 0, 5, 82, 183, 79]
+  },
+  {
+    "word_of_interest": "empire",
+    "years": [13, 11, 21, 14, 35, 101, 161, 244]
+  },
+  {
+    "word_of_interest": "hell",
+    "years": [7, 29, 23, 11, 9, 12, 26, 27]
+  },
+  {
+    "word_of_interest": "inflation",
+    "years": [43, 57, 15, 29, 16, 15, 23, 13]
+  },
+  {
+    "word_of_interest": "light",
+    "years": [3, 12, 10, 15, 31, 18, 41, 26]
+  },
+  {
+    "word_of_interest": "media",
+    "years": [45, 36, 97, 113, 55, 62, 43, 53]
+  },
+  {
+    "word_of_interest": "death",
+    "years": [33, 43, 86, 51, 35, 97, 73, 82]
+  },
+  {
+    "word_of_interest": "nationalize",
+    "years": [0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "word_of_interest": "neoliberalism",
+    "years": [11, 29, 74, 47, 67, 72, 43, 16]
+  },
+  {
+    "word_of_interest": "opposition",
+    "years": [0, 10, 21, 87, 112, 205, 55, 77]
+  },
+  {
+    "word_of_interest": "panamazonico",
+    "years": [0, 0, 0, 0, 18, 0, 0]
+  },
+  {
+    "word_of_interest": "homeland",
+    "years": [143, 59, 65, 116, 243, 300, 205, 326]
+  },
+  {
+    "word_of_interest": "peace",
+    "years": [102, 61, 149, 192, 66, 71, 69, 108]
+  },
+  {
+    "word_of_interest": "oil",
+    "years": [54, 209, 194, 141, 130, 150, 226, 242]
+  },
+  {
+    "word_of_interest": "poverty",
+    "years": [18, 39, 101, 105, 71, 122, 91, 140]
+  },
+  {
+    "word_of_interest": "power",
+    "years": [163, 208, 103, 128, 169, 127, 141, 179]
+  },
+  {
+    "word_of_interest": "production",
+    "years": [44, 78, 100, 67, 111, 38, 54, 87]
+  },
+  {
+    "word_of_interest": "people",
+    "years": [762, 702, 711, 772, 950, 1036, 1017, 929]
+  },
+  {
+    "word_of_interest": "regime",
+    "years": [20, 40, 27, 6, 14, 6, 9, 3]
+  },
+  {
+    "word_of_interest": "revolution",
+    "years": [154, 231, 337, 282, 243, 338, 338, 423]
+  },
+  {
+    "word_of_interest": "sovereignty",
+    "years": [40, 29, 45, 34, 40, 41, 105, 48]
+  },
+  {
+    "word_of_interest": "socialism",
+    "years": [3, 2, 3, 3, 2, 8, 91, 228]
+  },
+  {
+    "word_of_interest": "workers",
+    "years": [37, 53, 85, 179, 104, 102, 127, 76]
+  }
 ]
