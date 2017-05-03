@@ -296,16 +296,19 @@ class MenuTabs extends React.Component {
 
   render () {
      return (
-      React.createElement(Tabs, {className: "root_tabs", inkBarStyle: {marginBottom: "100px"}, tabItemContainerStyle: { width: '100%'}}, 
+      React.createElement(Tabs, {className: "root_tabs", inkBarStyle: {marginBottom: "20px"}, tabItemContainerStyle: { width: '100%'}}, 
         React.createElement(Tab, {label: "Selected Words"}, 
+          React.createElement("p", {style: { width: '40%'}}, "This section shows a list of selected words and their frequency of appeareance in speeches from 1999-2006."), 
           React.createElement("div", {className: "below_tab"}, 
             React.createElement(FrequencyTab, null)
           )
         ), 
         React.createElement(Tab, {label: "Most Used Words"}, 
+          React.createElement("p", {style: { width: '40%'}}, "This section shows word cloud of the most frequence words in speeches from 1999-2006."), 
           React.createElement(MostCommonTab, null)
         ), 
         React.createElement(Tab, {label: "Unique Words"}, 
+          React.createElement("p", {style: { width: '40%'}}, "This section shows the results of a term frequency - inverse document frequency analysis. It shows the most unique words present in the collective speeches of any given year."), 
           React.createElement(TFIDF, null)
         )
       )
@@ -1054,7 +1057,7 @@ all_data = [
       "word": "president",
       "count": 367
     }, {
-      "word": "siempre",
+      "word": "always",
       "count": 360
     }, {
       "word": "so",

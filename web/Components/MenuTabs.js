@@ -39,16 +39,19 @@ class MenuTabs extends React.Component {
 
   render () {
      return (
-      <Tabs className="root_tabs" inkBarStyle={{marginBottom: "100px"}}  tabItemContainerStyle={{ width: '100%'}}  >
+      <Tabs className="root_tabs" inkBarStyle={{marginBottom: "20px"}}  tabItemContainerStyle={{ width: '100%'}}  >
         <Tab label="Selected Words" >
+          <p style={{ width: '40%' }}>This section shows a list of selected words and their frequency of appeareance in speeches from 1999-2006.</p>
           <div className="below_tab">
             <FrequencyTab />
           </div>
         </Tab>
         <Tab label="Most Used Words" >
+          <p style={{ width: '40%' }}>This section shows word cloud of the most frequence words in speeches from 1999-2006.</p>
           <MostCommonTab />
         </Tab>
         <Tab label="Unique Words" >
+          <p style={{ width: '40%' }}>This section shows the results of a term frequency - inverse document frequency analysis. It shows the most unique words present in the collective speeches of any given year.</p>
           <TFIDF />
         </Tab>
       </Tabs>
