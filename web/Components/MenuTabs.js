@@ -4,6 +4,8 @@ var Slider = require('material-ui/Slider').default;
 var FrequencyTab = require('./FrequencyTab.js');
 var MostCommonTab = require('./MostCommonTab.js');
 var TFIDF = require('./TFIDF.js');
+var BigramsTab = require('./BigramsTab.js');
+
 
 // var { Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn } = require('material-ui/Table');
 // var Container = require('./Container.js');
@@ -53,6 +55,10 @@ class MenuTabs extends React.Component {
         <Tab label="Unique Words" >
           <p style={{ width: '40%' }}>This section shows the results of a term frequency - inverse document frequency analysis. It shows the most unique words present in the collective speeches of any given year.</p>
           <TFIDF />
+        </Tab>
+        <Tab label="Bigrams" >
+          <p style={{ width: '40%' }}>This section shows a list of bigrams, or sets of words that are likely to appear adjacent to each other in speeches from 1999-2006.</p>
+          <BigramsTab />
         </Tab>
       </Tabs>
       );

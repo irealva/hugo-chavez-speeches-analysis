@@ -93,7 +93,15 @@ class WordCloud extends React.Component {
       //     return d.word + this.get_count(d);
       // });
       .html(d => {
-          return d.word + ' (' + d[show_variable] + '),';
+        let number = d[show_variable];
+        if (number == undefined) {
+            number = ', ';
+        }
+        else {
+            number = ' (' + number + '),'
+        }
+
+          return d.word + number;
       });
 
 
