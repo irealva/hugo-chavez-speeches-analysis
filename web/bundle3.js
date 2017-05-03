@@ -34,7 +34,7 @@ var { Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn
 var Container = require('./Container.js');
 var WordCloud = require('./WordCloud.js')
 
-all_data = [
+all_data3 = [
   {
     "year": 1999,
     "words": [ {"word":"fuerzas armadas ","count":1373},{"word":"asamblea constituyente ","count":861},{"word":"ustedes saben ","count":840},{"word":"pueblo venezolano ","count":765},{"word":"100 dias ","count":747},{"word":"todas partes ","count":692},{"word":"hombres mujeres ","count":631},{"word":"derechos humanos ","count":592},{"word":"cipriano castro ","count":510},{"word":"ultimos anos ","count":506},{"word":"4 febrero ","count":471},{"word":"hago llamado ","count":470},{"word":"america latina ","count":462},{"word":"hugo chavez ","count":445},{"word":"ser humano ","count":434},{"word":"corte suprema ","count":415},{"word":"medios comunicacion ","count":402},{"word":"simon bolivar ","count":402},{"word":"adecos copeyanos ","count":388},{"word":"25 julio ","count":374},{"word":"nueva constitucion ","count":372},{"word":"ley habilitante ","count":372},{"word":"fijense ustedes ","count":364},{"word":"hong kong ","count":361},{"word":"debe ser ","count":321},{"word":"punto vista ","count":317},{"word":"republica bolivariana ","count":312},{"word":"gracias dios ","count":310},{"word":"comunidad andina ","count":306},{"word":"interno bruto ","count":305}
@@ -81,7 +81,7 @@ class BigramsTab extends React.Component {
      return (
         React.createElement(Table, {selectable: false, style: {tableLayout: 'auto', width: '70%', margin: 'auto'}}, 
       React.createElement(TableBody, {displayRowCheckbox: false}, 
-          all_data.map((year, index) => {
+          all_data3.map((year, index) => {
             // console.log(word);
             // console.log(index);
 
