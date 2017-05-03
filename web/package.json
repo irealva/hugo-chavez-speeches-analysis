@@ -1,0 +1,36 @@
+{
+  "name": "boiler_plate_d3_react",
+  "version": "0.0.1",
+  "description": "An example of how to use the React-Faux-DOM to render SVG elements using d3 with react",
+  "main": "index.js",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "d3": "^4.4.0",
+    "d3-tip": "^v0.6.3",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-faux-dom": "^3.0.0",
+    "reactify": "^1.1.1"
+  },
+  "scripts": {
+    "build": "browserify -t reactify index.js -o bundle.js",
+    "build2": "browserify -t reactify index2.js -o bundle2.js",
+    "build3": "browserify -t reactify index3.js -o bundle3.js"
+  },
+  "browserify": {
+    "transform": [
+      "node-csvify",
+      "browserify-data"
+    ]
+  },
+  "author": "Adil Baaj",
+  "license": "Unlicense",
+  "dependencies": {
+    "browserify-data": "^0.2.0",
+    "material-ui": "^0.17.4",
+    "node-csvify": "0.0.6",
+    "query-selector": "^1.0.9",
+    "react-tap-event-plugin": "^2.0.1",
+    "style-attr": "^1.2.0"
+  }
+}

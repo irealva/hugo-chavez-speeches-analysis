@@ -45,7 +45,7 @@ BUT change the year!!!
 4) For header: `cat * > merged.txt`
 
 5) For speeches: `rename -N 0001 's/.*/1999.$N.txt/' *.txt`
-BUT change the year!!!
+BUT change the year!!! (from same directory)
 
 --------
 
