@@ -1,5 +1,9 @@
 // Using d3 v.4.x 
 
+/*
+ *  Representation of a simple bar chart
+ */
+
 var React = require('react')
 var ReactFauxDOM = require('react-faux-dom')
 var d3 = require('d3')

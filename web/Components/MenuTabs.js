@@ -1,3 +1,7 @@
+/*
+ *  Component that holds the four different tabs being features on the main page
+ */
+
 var React = require('react')
 var {Tabs, Tab} = require('material-ui/Tabs');
 var Slider = require('material-ui/Slider').default;

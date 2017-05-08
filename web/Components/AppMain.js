@@ -1,3 +1,7 @@
+/*
+ *  Entry point for the app. Main component that gets rendered first
+ */
+
 var React = require('react')
 
 var AppBar = require('material-ui/AppBar').default;

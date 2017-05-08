@@ -1,3 +1,7 @@
+/*
+ *  Tab 3: TFIDF Visualization 
+ */
+
 var React = require('react')
 var { Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn } = require('material-ui/Table');
 var Container = require('./Container.js');

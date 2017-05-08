@@ -1,4 +1,6 @@
-// Using d3 v.4.x 
+/*
+ *  A word cloud component
+ */
 
 var React = require('react')
 var ReactFauxDOM = require('react-faux-dom')
