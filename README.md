@@ -15,3 +15,9 @@ All the scripts I used to parse and cleanup the data can be found in the `python
 ## Website
 
 The code that powers the website is being run in the `gh-pages` branch but can also be found in the `web` folder.
+
+The link to the site is: https://irealva.github.io/hugo-chavez-speeches-analysis/web/index3.html
+
+## Screencast
+
+The video file showing the basic flow of the site is simply called `screencast`
